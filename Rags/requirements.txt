@@ -6,3 +6,4 @@ langchain-chroma
 unstructured
 chromadb
 openai
+langgraph
