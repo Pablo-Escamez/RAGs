@@ -7,3 +7,4 @@ unstructured
 chromadb
 openai
 langgraph
+beautifulsoup4
